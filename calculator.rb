@@ -5,8 +5,6 @@ describe "./calculator.rb" do
   
   second_number = get_variable_from_file ('./calculator.rb', "second_number")
   
-
-  
 end 
   
 
