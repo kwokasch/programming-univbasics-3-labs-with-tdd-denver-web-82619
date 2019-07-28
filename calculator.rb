@@ -8,5 +8,16 @@ def describe "./calculator.rb" do
   sum (first_number, second_number) 
     puts first_number + second_number
   end
-
   
+  difference (first_number, second_number) 
+    puts first_number - second_number
+  end
+  
+  product (first_number, second_number) 
+    puts first_number * second_number
+  end
+
+  quotient (first_number, second_number)
+    puts first_number / second_number
+  end
+end
