@@ -25,6 +25,6 @@ describe "./calculator.rb" do
     first_number * second_number
   end
 
-def quotient (first_number, second_number) 
-  first_number / second_number
-end 
+  def quotient (first_number, second_number) 
+    first_number / second_number
+  end 
