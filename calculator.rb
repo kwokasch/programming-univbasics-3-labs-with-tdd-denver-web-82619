@@ -28,3 +28,4 @@ describe "./calculator.rb" do
   def quotient (first_number, second_number) 
     first_number / second_number
   end 
+end
